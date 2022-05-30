@@ -2,6 +2,9 @@
  혼자 공부하는 iOS
   
 ## Swift && iOS  
+- Cocoa, Cocoa Touch framework
+- 함수형 프로그래밍(Functional Programming)
+- 프로토콜 지향 프로그래밍(Protocol-Oriented Programming)
 - View Controller Life Cycle
 - App Life Cycle
 - [GCD (Grand Central Dispatch)](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/GCD%20(Grand%20Central%20Dispatch).md)
@@ -9,10 +12,14 @@
 - ARC(Auto Reference Counting)
 - Closure에 대해
 - guard let self = self
+- Copy-On-Write
+- in-out 동작 방식
 - Type Annotation과 Type Inference의 성능 차이
 - Dispatch를 통한 성능 최적화
-- LLDB
+- Memory Allocation 고려를 통한 성능 최적화
+- Reference Counting 고려를 통한 성능 최적화
 - 내가 Swift 알고리즘 작성 시 많이 쓰는 것 정리
+- LLDB
   
 ## OOP(Object Oriented Programming)  
 - [객체지향 설계 5원칙 SOLID](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/객체지향%20설계%205원칙%20SOLID.md)
