@@ -8,21 +8,21 @@
 - View Controller Life Cycle
 - App Life Cycle
 - [GCD (Grand Central Dispatch)](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/GCD%20(Grand%20Central%20Dispatch).md)
-- Swift의 참조 타입과 값 타입 
+- [Swift의 참조 타입과 값 타입](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Swift의%20참조타입과%20값타입.md)
 - ARC(Auto Reference Counting)
 - Closure에 대해
 - guard let self = self
 - Copy-On-Write
 - in-out 동작 방식
 - Type Annotation과 Type Inference의 성능 차이
-- Dispatch를 통한 성능 최적화
+- [Dispatch를 통한 성능 최적화](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Dispatch%20성능%20최적화.md)
 - Memory Allocation 고려를 통한 성능 최적화
 - Reference Counting 고려를 통한 성능 최적화
 - 내가 Swift 알고리즘 작성 시 많이 쓰는 것 정리
 - LLDB
   
 ## OOP(Object Oriented Programming)  
-- [객체지향 설계 5원칙 SOLID](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/객체지향%20설계%205원칙%20SOLID.md)
+- [객체지향 설계 5원칙 SOLID](https://github.com/KiHyunJang/iOS_Study/blob/main/OOP/객체지향%20설계%205원칙%20SOLID.md)
 - 의존성 주입 (Dependency Injection)
 - 객체 지향 프로그래밍 특징
   
