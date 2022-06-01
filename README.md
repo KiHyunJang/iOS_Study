@@ -3,10 +3,10 @@
   
 ## Swift && iOS  
 - Cocoa, Cocoa Touch framework
-- 함수형 프로그래밍(Functional Programming)
-- 프로토콜 지향 프로그래밍(Protocol-Oriented Programming)
+- [함수형 프로그래밍(Functional Programming)](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/함수형%20프로그래밍.md)
+- [프로토콜 지향 프로그래밍(Protocol-Oriented Programming)](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/프로토콜%20지향%20프로그래밍.md)
 - View Controller Life Cycle
-- App Life Cycle
+- [App Life Cycle](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/App%20Life%20Cycle.md)
 - [GCD (Grand Central Dispatch)](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/GCD%20(Grand%20Central%20Dispatch).md)
 - [Swift의 참조 타입과 값 타입](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Swift의%20참조타입과%20값타입.md)
 - ARC(Auto Reference Counting)
