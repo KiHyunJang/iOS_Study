@@ -29,9 +29,9 @@
 ## TDD(Test-Driven-Development)  
   
 ## Software Architecture Pattern  
-- MVC
-- MVP
-- MVVM
+- [MVC](https://github.com/KiHyunJang/iOS_Study/blob/main/Software%20Architecture%20Pattern/MVC%20Patton.md)
+- [MVP](https://github.com/KiHyunJang/iOS_Study/blob/main/Software%20Architecture%20Pattern/MVP%20Patton.md)
+- [MVVM](https://github.com/KiHyunJang/iOS_Study/blob/main/Software%20Architecture%20Pattern/MVVM%20patton.md)
 - VIPER
 - RIBs
   
