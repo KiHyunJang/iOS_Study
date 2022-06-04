@@ -12,8 +12,8 @@
 - ARC(Auto Reference Counting)
 - Closure에 대해
 - [guard let self = self](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/guard%20let%20self.md)
-- Copy-On-Write
-- in-out 동작 방식
+- [Copy-On-Write](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Copy%20on%20write.md)
+- [in-out 동작 방식](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/in-out%20동작방식.md)
 - Type Annotation과 Type Inference의 성능 차이
 - [Dispatch를 통한 성능 최적화](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Dispatch%20성능%20최적화.md)
 - Memory Allocation 고려를 통한 성능 최적화
@@ -24,7 +24,7 @@
 ## OOP(Object Oriented Programming)  
 - [객체지향 설계 5원칙 SOLID](https://github.com/KiHyunJang/iOS_Study/blob/main/OOP/객체지향%20설계%205원칙%20SOLID.md)
 - 의존성 주입 (Dependency Injection)
-- 객체 지향 프로그래밍 특징
+- [객체 지향 프로그래밍 특징](https://github.com/KiHyunJang/iOS_Study/blob/main/OOP/OOP의%20특징.md)
   
 ## TDD(Test-Driven-Development)  
   
