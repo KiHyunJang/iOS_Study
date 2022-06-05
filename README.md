@@ -9,12 +9,12 @@
 - [App Life Cycle](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/App%20Life%20Cycle.md)
 - [GCD (Grand Central Dispatch)](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/GCD%20(Grand%20Central%20Dispatch).md)
 - [Swift의 참조 타입과 값 타입](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Swift의%20참조타입과%20값타입.md)
-- ARC(Auto Reference Counting)
+- [ARC(Auto Reference Counting)](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Auto%C2%A0Reference%C2%A0Counting.md)
 - Closure에 대해
 - [guard let self = self](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/guard%20let%20self.md)
 - [Copy-On-Write](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Copy%20on%20write.md)
 - [in-out 동작 방식](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/in-out%20동작방식.md)
-- Type Annotation과 Type Inference의 성능 차이
+- [Type Annotation과 Type Inference의 성능 차이](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Type%20Annotation과%20Type%20Inference의%20성능%20차이.md)
 - [Dispatch를 통한 성능 최적화](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Dispatch%20성능%20최적화.md)
 - Memory Allocation 고려를 통한 성능 최적화
 - Reference Counting 고려를 통한 성능 최적화
