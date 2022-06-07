@@ -23,7 +23,7 @@
   
 ## OOP(Object Oriented Programming)  
 - [객체지향 설계 5원칙 SOLID](https://github.com/KiHyunJang/iOS_Study/blob/main/OOP/객체지향%20설계%205원칙%20SOLID.md)
-- 의존성 주입 (Dependency Injection)
+- [의존성 주입 (Dependency Injection)](https://github.com/KiHyunJang/iOS_Study/blob/main/OOP/Dependency%20Injection.md)
 - [객체 지향 프로그래밍 특징](https://github.com/KiHyunJang/iOS_Study/blob/main/OOP/OOP의%20특징.md)
   
 ## TDD(Test-Driven-Development)  
