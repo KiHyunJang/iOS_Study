@@ -17,7 +17,7 @@
 - [Type Annotation과 Type Inference의 성능 차이](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Type%20Annotation과%20Type%20Inference의%20성능%20차이.md)
 - [Dispatch를 통한 성능 최적화](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Dispatch%20성능%20최적화.md)
 - [Memory Allocation 고려를 통한 성능 최적화](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Memory%20Allocation%20을%20통한%20최적화.md)
-- Reference Counting 고려를 통한 성능 최적화
+- [Reference Counting 고려를 통한 성능 최적화](https://github.com/KiHyunJang/iOS_Study/blob/main/Swift_iOS/Reference%20Counting%20통한%20성능%20최적화.md)
 - 내가 Swift 알고리즘 작성 시 많이 쓰는 것 정리
 - LLDB
   
